@@ -46,10 +46,10 @@
   "dependencies": {
     "core-js": "^3.46.0"
   },
-  "jest": {
-    "collectCoverageFrom": [
-      "src/health.js",
-      "src/heroes.js"
-    ]
-  }
+"jest": {
+  "collectCoverageFrom": [
+    "src/health.js",
+    "src/heroes.js"
+  ]
+}
 }
